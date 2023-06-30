@@ -4,6 +4,7 @@
 <a href="https://udhay86kumar.github.io/Fake-News-Detection/">click here to visit website</a>
 </p>
 ## Fake News Detection using LSTM in Flask
+
 This project implements a web application for fake news detection using LSTM (Long Short-Term Memory) neural networks. The application is built using the Flask framework, allowing users to input news articles and get predictions on whether they are fake or real.
 
 ## Dataset
