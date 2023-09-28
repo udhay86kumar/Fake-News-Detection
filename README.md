@@ -1,7 +1,6 @@
 
 <h1 align="center">Fake News Detection using LSTM in Flask</h1>
 <p align=center>
-<a href="https://udhay86kumar.github.io/Fake-News-Detection/">click here to visit website</a>
 </p>
 ## Fake News Detection using LSTM in Flask
 
